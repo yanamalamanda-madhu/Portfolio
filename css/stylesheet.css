@@ -1,0 +1,72 @@
+.bgcolor
+{
+	background-color: #e6e6fa;   
+ }
+
+.main_heading
+{
+	text-align:center;
+	font-family:algerian;
+	padding: 10px;
+	margin: 2px;
+	background-color: #f0ffff;
+}
+
+#main_heading_bgcolor
+{
+    	background-color: #d8bfd8;
+    	margin:10px;
+}
+
+
+.text-alignment
+{
+	display: flex;
+    	justify-content: space-between;
+   	width: 100%; 
+    	border-radius: 18px;
+	padding: 5px;
+	border-width: 5px;
+	font-weight: bold;
+}
+
+.text-alignment a:hover 
+{
+    	background-color: #e6e6fa;
+    	border-radius: 18px;
+}
+
+.para_background
+{
+    	background-color: white;
+    	border-radius: 5px;
+    	margin: 10px;
+    	border-width: 2px;
+    	padding:8px;
+}
+
+
+img {
+    	width:100px;
+    	height: 100px;
+    	object-fit: cover;
+    	border-radius: 18px;
+    	margin: 10px;
+    	border-width: 2px;
+    	border-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
